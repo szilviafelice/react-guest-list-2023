@@ -1,0 +1,37 @@
+.heroSection {
+  background-color: beige;
+  text-align: center;
+  border-radius: 12px;
+  border-color: darkslategray;
+  padding-bottom: 100%;
+  padding-top: 25%;
+}
+
+input {
+  background-color: bisque;
+  border-color: rgb(14, 75, 63);
+  border-radius: 12px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  margin: 10px;
+}
+
+h1 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: darkslategrey;
+}
+
+button {
+  color: rgb(9, 9, 9);
+  background-color: rgb(209, 240, 178);
+  border-color: rgb(29, 92, 92);
+  border-radius: 12px;
+}
+
+label {
+  color: rgb(32, 107, 82);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: larger;
+}
